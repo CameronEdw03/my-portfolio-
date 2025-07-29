@@ -16,3 +16,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+h1,span,p{
+  font-family: 'Poppins', sans-serif;
+}
